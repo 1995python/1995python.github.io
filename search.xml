@@ -4,46 +4,7 @@
   
     
     <entry>
-      <title>Collector客户端网络连接问题汇总</title>
-      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector网络连接问题汇总"><a href="#StoneMIND-Collector网络连接问题汇总" class="headerlink" title="StoneMIND Collector网络连接问题汇总"></a>StoneMIND Collector网络连接问题汇总</h1><h2 id="1-为什么我能正常联网，Collector却提示未接入网络不能使用？"><a href="#1-为什么我能正常联网，Collector却提示未接入网络不能使用？" class="headerlink" title="1.为什么我能正常联网，Collector却提示未接入网络不能使用？"></a>1.为什么我能正常联网，Collector却提示未接入网络不能使用？</h2><p>部分用户在学校网络或企业内网进行使用时，可能由于安全考虑会对未在白名单范围内的网址或SAAS服务产品进行拦截，因此建议用户更换其他网络进行使用。</p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="/Users/huangfuxin/Desktop/客服微信截图.png" alt=""></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Collector客户端与scifinder连用问题汇总</title>
-      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8Escifinder%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8Escifinder%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>SciFinder由美国化学会(ACS)旗下的美国化学文摘社(CAS)出品，是一个研发信息应用平台，提供全球最大、最权威的化学及相关学科文献、物质和反应信息。SciFinder涵盖了化学及相关学科如生物、医药、工程、农学、物理等多学科、跨学科的科技信息。SciFinder收录的文献类型包括期刊、专利、会议论文、图书、技术报告、评论、网络预印本和其他网络资源等。SciFinder的强大检索功能与海量信息让用户对信息进行实时追踪，即刻掌握领域的发展趋势，被全球化学企业、制药公司、大学、政府机构和专利局公认为最权威和最全面的化学及相关学科信息解决方案。StoneMIND Collector当然支持在Scifinder数据库中进行检索。具体操作方法如下。</p><p>方法：利用在StoneMIND Collector中获得的物质SMILES将结构导入到SciFindern的结构编辑器中。</p><p>1.在StoneMIND Collector中绘制好结构并选中。</p><p>2.点击SciFindern菜单Edit，选择Copy As, 然后再选择SMILES。</p><p>3.在此粘贴在StoneMIND Collector中获得的SMILES，将结构导入到SciFindern的结构编辑器中。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Collector客户端与Pubchem等数据库连用问题汇总</title>
-      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector客户端版与pubchem等数据库联用问题汇总"><a href="#StoneMIND-Collector客户端版与pubchem等数据库联用问题汇总" class="headerlink" title="StoneMIND Collector客户端版与pubchem等数据库联用问题汇总"></a>StoneMIND Collector客户端版与pubchem等数据库联用问题汇总</h1><h2 id="1-StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？"><a href="#1-StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？" class="headerlink" title="1. StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？"></a>1. StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？</h2><p>利用StoneMIND Collector时，有用户会想通过化学结构进行专利查询，具体怎样操作呢？快来看看吧！</p><p>（1）进入PubChem化学结构检索界面</p><p> 打开PubChem数据库，点击Draw Structure即可进入化学结构检索界面。</p><p>化学结构检索提供方便的化学结构编辑器，用户可在该窗口手动绘制化学结构或者提供结构smiles文件格式检索专利。</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png" alt="img"></p><p>（2）获取化学结构的smiles</p><p> 利用StoneMIND Collector复制化合物结构的Smiles后,在PubChem结构编辑器中输入该化学结构的smiles，回车即可在绘制框中显示出需要检索的化学结构。如下图所示：</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.gif" alt="img"></p><p>（3）Pubchem上传结构文件进行专利检索</p><p>在化学结构编辑器中复制获得的分子结构的smiles。</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png" alt="img"></p><p> 点击Search for This Structure进行检索，检索结果如下图所示：</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png" alt="img"></p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png" alt="img"></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Collector客户端与ChemDraw等化学结构编辑器联用问题汇总</title>
+      <title>StoneMIND Collector客户端与ChemDraw等化学结构编辑器联用问题汇总</title>
       <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
       <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
@@ -56,11 +17,50 @@
     
     
     <entry>
-      <title>Collector客户端安全与隐私问题汇总</title>
+      <title>StoneMIND Collector客户端与Pubchem等数据库连用问题汇总</title>
+      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector客户端版与pubchem等数据库联用问题汇总"><a href="#StoneMIND-Collector客户端版与pubchem等数据库联用问题汇总" class="headerlink" title="StoneMIND Collector客户端版与pubchem等数据库联用问题汇总"></a>StoneMIND Collector客户端版与pubchem等数据库联用问题汇总</h1><h2 id="1-StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？"><a href="#1-StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？" class="headerlink" title="1. StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？"></a>1. StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？</h2><p>利用StoneMIND Collector时，有用户会想通过化学结构进行专利查询，具体怎样操作呢？快来看看吧！</p><p>（1）进入PubChem化学结构检索界面</p><p> 打开PubChem数据库，点击Draw Structure即可进入化学结构检索界面。</p><p>化学结构检索提供方便的化学结构编辑器，用户可在该窗口手动绘制化学结构或者提供结构smiles文件格式检索专利。</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png" alt="img"></p><p>（2）获取化学结构的smiles</p><p> 利用StoneMIND Collector复制化合物结构的Smiles后,在PubChem结构编辑器中输入该化学结构的smiles，回车即可在绘制框中显示出需要检索的化学结构。如下图所示：</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.gif" alt="img"></p><p>（3）Pubchem上传结构文件进行专利检索</p><p>在化学结构编辑器中复制获得的分子结构的smiles。</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png" alt="img"></p><p> 点击Search for This Structure进行检索，检索结果如下图所示：</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png" alt="img"></p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="file:////Users/huangfuxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png" alt="img"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>StoneMIND Collector客户端与scifinder连用问题汇总</title>
+      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8Escifinder%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8Escifinder%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>SciFinder由美国化学会(ACS)旗下的美国化学文摘社(CAS)出品，是一个研发信息应用平台，提供全球最大、最权威的化学及相关学科文献、物质和反应信息。SciFinder涵盖了化学及相关学科如生物、医药、工程、农学、物理等多学科、跨学科的科技信息。SciFinder收录的文献类型包括期刊、专利、会议论文、图书、技术报告、评论、网络预印本和其他网络资源等。SciFinder的强大检索功能与海量信息让用户对信息进行实时追踪，即刻掌握领域的发展趋势，被全球化学企业、制药公司、大学、政府机构和专利局公认为最权威和最全面的化学及相关学科信息解决方案。StoneMIND Collector当然支持在Scifinder数据库中进行检索。具体操作方法如下。</p><p>方法：利用在StoneMIND Collector中获得的物质SMILES将结构导入到SciFindern的结构编辑器中。</p><p>1.在StoneMIND Collector中绘制好结构并选中。</p><p>2.点击SciFindern菜单Edit，选择Copy As, 然后再选择SMILES。</p><p>3.在此粘贴在StoneMIND Collector中获得的SMILES，将结构导入到SciFindern的结构编辑器中。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>StoneMIND Collector客户端客户端网络连接问题汇总</title>
       <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E5%85%A8%E4%B8%8E%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
       <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E5%85%A8%E4%B8%8E%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector客户端安全与隐私问题汇总"><a href="#StoneMIND-Collector客户端安全与隐私问题汇总" class="headerlink" title="StoneMIND Collector客户端安全与隐私问题汇总"></a>StoneMIND Collector客户端安全与隐私问题汇总</h1><h2 id="1-我提交的识别数据是否会泄露，平台如何保证我的信息安全？"><a href="#1-我提交的识别数据是否会泄露，平台如何保证我的信息安全？" class="headerlink" title="1.我提交的识别数据是否会泄露，平台如何保证我的信息安全？"></a>1.我提交的识别数据是否会泄露，平台如何保证我的信息安全？</h2><p>Collector对每一位用户提供隐私协议和服务条款，您在注册时已默认勾选，这代表了用户认可Collector对数据隐私的保护方式。在用户使用Collector产品的过程中，我们坚决保护用户隐私，严格遵循国家数据安全法。</p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="E:\Hexo-butterfly-demo\source\_posts\Collector客户端安全与隐私问题汇总\1.png" alt="微信截图"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector客户端安全与隐私问题汇总"><a href="#StoneMIND-Collector客户端安全与隐私问题汇总" class="headerlink" title="StoneMIND Collector客户端安全与隐私问题汇总"></a>StoneMIND Collector客户端安全与隐私问题汇总</h1><h2 id="1-我提交的识别数据是否会泄露，平台如何保证我的信息安全？"><a href="#1-我提交的识别数据是否会泄露，平台如何保证我的信息安全？" class="headerlink" title="1.我提交的识别数据是否会泄露，平台如何保证我的信息安全？"></a>1.我提交的识别数据是否会泄露，平台如何保证我的信息安全？</h2><p>Collector对每一位用户提供隐私协议和服务条款，您在注册时已默认勾选，这代表了用户认可Collector对数据隐私的保护方式。在用户使用Collector产品的过程中，我们坚决保护用户隐私，严格遵循国家数据安全法。</p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" alt="collector小助手微信"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>StoneMIND Collector客户端客户端网络连接问题汇总</title>
+      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector网络连接问题汇总"><a href="#StoneMIND-Collector网络连接问题汇总" class="headerlink" title="StoneMIND Collector网络连接问题汇总"></a>StoneMIND Collector网络连接问题汇总</h1><h2 id="1-为什么我能正常联网，Collector却提示未接入网络不能使用？"><a href="#1-为什么我能正常联网，Collector却提示未接入网络不能使用？" class="headerlink" title="1.为什么我能正常联网，Collector却提示未接入网络不能使用？"></a>1.为什么我能正常联网，Collector却提示未接入网络不能使用？</h2><p>部分用户在学校网络或企业内网进行使用时，可能由于安全考虑会对未在白名单范围内的网址或SAAS服务产品进行拦截，因此建议用户更换其他网络进行使用。</p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" alt="collector小助手微信"></p>]]></content>
       
       
       
@@ -70,10 +70,10 @@
     
     <entry>
       <title>StoneMIND Collector客户端常见登录问题汇总</title>
-      <link href="/blog/%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      <link href="/blog/StongMIND%20Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B8%B8%E8%A7%81%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>/blog/StongMIND%20Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B8%B8%E8%A7%81%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector客户端常见登录问题汇总"><a href="#StoneMIND-Collector客户端常见登录问题汇总" class="headerlink" title="StoneMIND Collector客户端常见登录问题汇总"></a>StoneMIND Collector客户端常见登录问题汇总</h1><h2 id="1-如何在StoneMIND-Collector-客户端中登录账号？"><a href="#1-如何在StoneMIND-Collector-客户端中登录账号？" class="headerlink" title="1.如何在StoneMIND Collector 客户端中登录账号？"></a>1.如何在StoneMIND Collector 客户端中登录账号？</h2>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector客户端常见登录问题汇总"><a href="#StoneMIND-Collector客户端常见登录问题汇总" class="headerlink" title="StoneMIND Collector客户端常见登录问题汇总"></a>StoneMIND Collector客户端常见登录问题汇总</h1><h2 id="如何在StoneMIND-Collector-客户端中登录账号？"><a href="#如何在StoneMIND-Collector-客户端中登录账号？" class="headerlink" title="如何在StoneMIND Collector 客户端中登录账号？"></a>如何在StoneMIND Collector 客户端中登录账号？</h2>]]></content>
       
       
       
