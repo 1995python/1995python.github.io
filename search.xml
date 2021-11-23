@@ -5,8 +5,8 @@
     
     <entry>
       <title>Collector 客户端使用FAQ：如何使用内置化学编辑器？</title>
-      <link href="/blog/1/"/>
-      <url>/blog/1/</url>
+      <link href="blog/1/"/>
+      <url>blog/1/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何使用IUPAC命名转换结构式？"><a href="#如何使用IUPAC命名转换结构式？" class="headerlink" title="如何使用IUPAC命名转换结构式？"></a>如何使用IUPAC命名转换结构式？</h1><p>通过点击软件内置编辑器下方工具栏中的【名称转结构式】工具，或者使用快捷Ctrl+U打开该工具。在输入框中输入需要转换的IUPAC名称并点击ok，系统将自动转换成相应结构式。</p><p><img src="2.gif" width="80%" height="80%"></p><h1 id="如何使用常用R基插入？"><a href="#如何使用常用R基插入？" class="headerlink" title="如何使用常用R基插入？"></a>如何使用常用R基插入？</h1><p>通过点击软件内置编辑器下方工具栏中的【常用R基插入】工具，点击需要插入R基位置，输入正确的基团简写即可。</p><p><img src="3.gif" width="80%" height="80%"></p><h1 id="如何使用常用母体结构插入？"><a href="#如何使用常用母体结构插入？" class="headerlink" title="如何使用常用母体结构插入？"></a>如何使用常用母体结构插入？</h1><p>通过点击软件内置编辑器下方工具栏中的【常用母体结构插入】工具，选中左侧母体结构分类，滑动选取该分类下需要插入的母体结构，双击或者点击OK按钮，内置编辑器将自动呈现该母体结构。</p><p><img src="4.gif" width="80%" height="80%"></p><h1 id="如何使用元素列表？"><a href="#如何使用元素列表？" class="headerlink" title="如何使用元素列表？"></a>如何使用元素列表？</h1><p>元素选择区位于内置编辑器的右侧，包括【元素周期表】和【常用元素选择区】两个部分。</p><p><img src="5.png" width="80%" height="80%"></p><p><strong>元素的使用：</strong>在结构中上添加元素，只需要选择常用元素选择区中的元素，点击结构相应位置即可，系统会根据放置位置自动配平元素的H原子。如果需要添加的元素不在常用元素选择区，我们可以点击元素周期表，直接进入元素周期表界面进行选择。</p><p><img src="6.gif" width="80%" height="80%"></p><p>为了提升绘制体验，StoneMIND Collector还为大家设置了元素快捷键，在键盘上点击快捷键后，用鼠标点击画板就会生成相应元素。</p><div class="table-container"><table><thead><tr><th><strong>序号</strong></th><th><strong>快捷键</strong></th><th><strong>图形</strong></th><th><strong>名称</strong></th></tr></thead><tbody><tr><td>1</td><td>Shift+H</td><td>H</td><td>H元素</td></tr><tr><td>2</td><td>Shift+c</td><td>C</td><td>C元素</td></tr><tr><td>3</td><td>Shift+C</td><td>Cl</td><td>Cl元素</td></tr><tr><td>4</td><td>Shift+N</td><td>N</td><td>N元素</td></tr><tr><td>5</td><td>Shift+O</td><td>O</td><td>O元素</td></tr><tr><td>6</td><td>Shift+S</td><td>S</td><td>S元素</td></tr><tr><td>7</td><td>Shift+P</td><td>P</td><td>P元素</td></tr><tr><td>8</td><td>Shift+F</td><td>F</td><td>F元素</td></tr><tr><td>9</td><td>Shift+B</td><td>Br</td><td>Br元素</td></tr><tr><td>10</td><td>Shift+I</td><td>I</td><td>I元素</td></tr></tbody></table></div><p> 元素更换Tirps:鼠标悬停在已有元素上时，点击相应元素快捷键，可以快速替换为新元素。</p><p> <img src="7.gif" width="80%" height="80%"></p><p><strong>添加常用元素:</strong>点击打开元素周期表，双击需要添加的元素，就可以将元素标记为常用元素。被标记为常用元素后，相应的元素就会出现在元素周期表下方的【常用元素选择区】中。注意：只能新增一个常用元素</p><p> <img src="8.gif" width="80%" height="80%"></p><h1 id="如何使用橡皮擦和清空工具"><a href="#如何使用橡皮擦和清空工具" class="headerlink" title="如何使用橡皮擦和清空工具?"></a>如何使用橡皮擦和清空工具?</h1><p>橡皮擦工具可以用来清除内置编辑器上任意绘制内容，包括结构式、元素、文本等；清空工具则可以一键清空内置编辑器上所有的内容。</p><p>我们可以在内置编辑器上方工具栏中选择相应按钮进行操作，除此之外，也可以通过快捷键（清空：Ctrl+Del）(橡皮擦：Del)进行操作。</p><p><img src="9.gif" width="80%" height="80%"> </p><h1 id="如何使用框选和选择工具"><a href="#如何使用框选和选择工具" class="headerlink" title="如何使用框选和选择工具?"></a>如何使用框选和选择工具?</h1><p>【框选工具】是在我们绘图过程中十分常用的工具，许多功能的使用都需要先使用框选工具选择后才可以操作。</p><p>我们在内置编辑器左侧工具栏中，点击【框选工具】按钮进行操作即可。</p><p>任意选择工具:选择任意框选工具，手动框选结构任意部位，选中后的结构会出现绿色背景色。</p><p><img src="10.gif" width="80%" height="80%"> </p><p>方形选择工具:选择方形框选工具，被方形选择框覆盖的元素和结构都将被选中，选中后的结构会出现绿色背景色。</p><p><img src="11.gif" width="80%" height="80%"> </p><p>环形选择工具:选择环形框选工具，将会连续选中结构的环状位置，选中后的结构会出现绿色背景色。</p><p><img src="12.gif" width="80%" height="80%"> </p><p>调整结构式位置：框选结构式后，按住选择框内区域拖动，就可以改变选中结构式的位置。</p><p><img src="13.gif" width="80%" height="80%"> </p><p>调整键长和角度：选择框选工具，点击键的一端进行拖动，就可以改变键的长短和角度。</p><p><img src="14.gif" width="80%" height="80%"> </p><h1 id="如何使用化学键工具？"><a href="#如何使用化学键工具？" class="headerlink" title="如何使用化学键工具？"></a>如何使用化学键工具？</h1><p>StoneMIND Collector的内置编辑器左侧和下部工具栏中包含绘制结构式的多种键和工具，包括化学键、长链和环形模版等工具，方便我们绘制各种结构式。</p><p>目前版本提供以下基础键类型，点击需要的化学键或使用相应快捷键，就可以在编辑器中进行绘制。 </p><p><img src="61.png" width="40%" height="40%"> </p><p> 绘制技巧——基础绘制方法</p><p>使用化学键绘制结构式非常的简单，只需要选择需要的化学键，点击在编辑器空白位置，就会出现一个化学键。如果还需要继续添加，只要在键尾端点处依次单击即可。使用相应化学键的快捷键，可以更加快速的绘制结构式。</p><p><img src="27.gif" width="80%" height="80%"> </p><p>添加时按住旋转，可以调整键的角度。</p><p>绘制技巧——连接结构</p><p>如果需要连接两部分结构，只需要按住添加的键并拖动至另一结构式的链接点，添加的键会自动延长，连接两部分结构。除此之外，也可以使用【框选工具】进行拖拽调整。</p><p><img src="28.gif" width="80%" height="80%"> </p><h1 id="如何使用长链以及环状模板工具？"><a href="#如何使用长链以及环状模板工具？" class="headerlink" title="如何使用长链以及环状模板工具？"></a>如何使用长链以及环状模板工具？</h1><p>StoneMIND Collector的内置编辑器左侧和下部工具栏中包含绘制结构式的多种键和工具，包括长链和环形模版工具，方便我们绘制各种结构式。</p><p><img src="62.png" width="40%" height="40%"> </p><p> 绘制环形结构：绘制一个环形结构，只需要选择相应模板，再点击到画板上即可。选择任意环形模板，点击在键一边的端点上，可以生成一个与键相连的环。按住转动，同样可以改变环的角度。点击在已有键上，可以以键为边添加新的环。</p><p><img src="38.gif" width="80%" height="80%"> </p><p> 长链工具可以用来连续绘制多条单键。选择【长链工具】，点击在画板上就可以形成长链。通过拖拽，可以改变长链的展现形式和长链中单键的个数。编辑器右上角的数字代表着C的个数</p><p><img src="39.gif" width="80%" height="80%"> </p><h1 id="如何使用去芳香性，芳香性，正负电荷工具？"><a href="#如何使用去芳香性，芳香性，正负电荷工具？" class="headerlink" title="如何使用去芳香性，芳香性，正负电荷工具？"></a>如何使用去芳香性，芳香性，正负电荷工具？</h1><p>StoneMIND Collector的内置编辑器包含电荷工具中包括正/负电荷，芳香性工具。我们可以在内置编辑器上方工具栏中选择相应按钮进行操作，除此之外，也可以通过快捷键（正负电荷：5）进行操作。 </p><p>选中正/负电荷后，鼠标点击在需要添加电荷的元素上，就会给该元素增加一个正/负电荷。</p><p><img src="40.gif" width="80%" height="80%"> </p><p>选中添加/去除芳香性工具后，鼠标点击在需要改变的化学结构上即可。</p><p><img src="41.gif" width="80%" height="80%"> </p><h1 id="如何使用上一步，下一步，缩放比例，重置，翻转工具？"><a href="#如何使用上一步，下一步，缩放比例，重置，翻转工具？" class="headerlink" title="如何使用上一步，下一步，缩放比例，重置，翻转工具？"></a>如何使用上一步，下一步，缩放比例，重置，翻转工具？</h1><p>StoneMIND Collector的内置编辑器包含上一步，下一步，缩放比例，重置，翻转工具。我们可以在内置编辑器上方工具栏中选择相应按钮进行操作，除此之外，也可以通过快捷键进行操作。 </p><p><img src="63.png" width="40%" height="40%"> </p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
       
@@ -17,22 +17,9 @@
     
     
     <entry>
-      <title>Collector客户端使用FAQ:如何与ChemDraw等化学结构编辑器联用</title>
-      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="为何粘贴至Chemdraw等化学结构编辑器中出现乱码？"><a href="#为何粘贴至Chemdraw等化学结构编辑器中出现乱码？" class="headerlink" title="为何粘贴至Chemdraw等化学结构编辑器中出现乱码？"></a>为何粘贴至Chemdraw等化学结构编辑器中出现乱码？</h2><p>想要避免出现此问题，需要您在StoneMIND Collector中复制提取后结构后，打开ChemDraw，右击选择Paste special-SMILES或者Paste special-MOL CDXML Text 即可将化学结构正确复制到ChemDraw中。</p><p><img src="2.png" width="70%" height="70%"></p><p>如您的ChemDraw中未显示Paste special功能，建议您将ChemDraw版本更换为较高版本进行操作。</p><h2 id="为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？"><a href="#为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？" class="headerlink" title="为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？"></a>为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？</h2><p>为避免出现上述问题，你只需要复制MOL格式的化学结构，即可在专业化学结构编辑器中呈现结构未发生变化的化学结构。</p><p><img src="3.png" width="80%" height="80%"></p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Collector客户端使用FAQ:如何与Pubchem等数据库联用</title>
-      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      <link href="blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？"><a href="#StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？" class="headerlink" title="StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？"></a>StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？</h1><p>利用StoneMIND Collector时，有用户会想通过化学结构进行专利查询，具体怎样操作呢？快来看看吧！</p><p>（1）进入PubChem化学结构检索界面</p><p> 打开PubChem数据库，点击Draw Structure即可进入化学结构检索界面。</p><p>化学结构检索提供方便的化学结构编辑器，用户可在该窗口手动绘制化学结构或者提供结构smiles文件格式检索专利。</p><p><img src="2.png" width="80%" height="80%"></p><p>（2）获取化学结构的smiles</p><p> 利用StoneMIND Collector复制化合物结构的Smiles后,在PubChem结构编辑器中输入该化学结构的smiles，回车即可在绘制框中显示出需要检索的化学结构。如下图所示：</p><p> <img src="3.gif" width="80%" height="80%"></p><p>（3）Pubchem上传结构文件进行专利检索</p><p>在化学结构编辑器中复制获得的分子结构的smiles。</p><p><img src="4.png" width="80%" height="80%"></p><p> 点击Search for This Structure进行检索，检索结果如下图所示：</p><p> <img src="5.png" width="80%" height="80%"></p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
       
@@ -44,8 +31,8 @@
     
     <entry>
       <title>Collector客户端使用FAQ：如何与scifinder联用？</title>
-      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8Escifinder%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8Escifinder%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      <link href="blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8Escifinder%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8Escifinder%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>SciFinder由美国化学会(ACS)旗下的美国化学文摘社(CAS)出品，是一个研发信息应用平台，提供全球最大、最权威的化学及相关学科文献、物质和反应信息。SciFinder涵盖了化学及相关学科如生物、医药、工程、农学、物理等多学科、跨学科的科技信息。SciFinder收录的文献类型包括期刊、专利、会议论文、图书、技术报告、评论、网络预印本和其他网络资源等。SciFinder的强大检索功能与海量信息让用户对信息进行实时追踪，即刻掌握领域的发展趋势，被全球化学企业、制药公司、大学、政府机构和专利局公认为最权威和最全面的化学及相关学科信息解决方案。StoneMIND Collector当然支持在Scifinder数据库中进行检索。具体操作方法如下。</p><p>方法：利用在StoneMIND Collector中获得的物质SMILES将结构导入到SciFindern的结构编辑器中。</p><p>1.在StoneMIND Collector中绘制好结构并选中。</p><p>2.点击SciFindern菜单Edit，选择Copy As, 然后再选择SMILES。</p><p>3.在此粘贴在StoneMIND Collector中获得的SMILES，将结构导入到SciFindern的结构编辑器中。</p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
       
@@ -57,8 +44,8 @@
     
     <entry>
       <title>Collector客户端使用FAQ:如何保证我的信息安全</title>
-      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E5%85%A8%E4%B8%8E%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E5%85%A8%E4%B8%8E%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      <link href="blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E5%85%A8%E4%B8%8E%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E5%85%A8%E4%B8%8E%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="我提交的识别数据是否会泄露，平台如何保证我的信息安全？"><a href="#我提交的识别数据是否会泄露，平台如何保证我的信息安全？" class="headerlink" title="我提交的识别数据是否会泄露，平台如何保证我的信息安全？"></a>我提交的识别数据是否会泄露，平台如何保证我的信息安全？</h2><p>Collector对每一位用户提供隐私协议和服务条款，您在注册时已默认勾选，这代表了用户认可Collector对数据隐私的保护方式。在用户使用Collector产品的过程中，我们坚决保护用户隐私，严格遵循国家数据安全法。</p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
       
@@ -70,8 +57,8 @@
     
     <entry>
       <title>Collector客户端使用FAQ:网络连接</title>
-      <link href="/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      <link href="blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="为什么我能正常联网，Collector却提示未接入网络不能使用？"><a href="#为什么我能正常联网，Collector却提示未接入网络不能使用？" class="headerlink" title="为什么我能正常联网，Collector却提示未接入网络不能使用？"></a>为什么我能正常联网，Collector却提示未接入网络不能使用？</h2><p>部分用户在学校网络或企业内网进行使用时，可能由于安全考虑会对未在白名单范围内的网址或SAAS服务产品进行拦截，因此建议用户更换其他网络进行使用。</p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
       
@@ -83,10 +70,23 @@
     
     <entry>
       <title>Collector客户端使用FAQ:账号登录</title>
-      <link href="/blog/StongMIND%20Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B8%B8%E8%A7%81%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>/blog/StongMIND%20Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B8%B8%E8%A7%81%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      <link href="blog/StongMIND%20Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B8%B8%E8%A7%81%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>blog/StongMIND%20Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B8%B8%E8%A7%81%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="如何在StoneMIND-Collector-客户端中登录账号？"><a href="#如何在StoneMIND-Collector-客户端中登录账号？" class="headerlink" title="如何在StoneMIND Collector 客户端中登录账号？"></a>如何在StoneMIND Collector 客户端中登录账号？</h2><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Collector客户端使用FAQ:如何与ChemDraw等化学结构编辑器联用</title>
+      <link href="blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="为何粘贴至Chemdraw等化学结构编辑器中出现乱码？"><a href="#为何粘贴至Chemdraw等化学结构编辑器中出现乱码？" class="headerlink" title="为何粘贴至Chemdraw等化学结构编辑器中出现乱码？"></a>为何粘贴至Chemdraw等化学结构编辑器中出现乱码？</h2><p>想要避免出现此问题，需要您在StoneMIND Collector中复制提取后结构后，打开ChemDraw，右击选择Paste special-SMILES或者Paste special-MOL CDXML Text 即可将化学结构正确复制到ChemDraw中。</p><p><img src="2.png" width="70%" height="70%"></p><p>如您的ChemDraw中未显示Paste special功能，建议您将ChemDraw版本更换为较高版本进行操作。</p><h2 id="为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？"><a href="#为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？" class="headerlink" title="为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？"></a>为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？</h2><p>为避免出现上述问题，你只需要复制MOL格式的化学结构，即可在专业化学结构编辑器中呈现结构未发生变化的化学结构。</p><p><img src="3.png" width="80%" height="80%"></p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
       
       
       
