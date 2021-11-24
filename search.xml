@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>如何把专利/文献里的2D化学结构1分钟内生成3D结构</title>
+      <link href="blog/%E5%A6%82%E4%BD%95%E6%8A%8A%E4%B8%93%E5%88%A9-%E6%96%87%E7%8C%AE%E9%87%8C%E7%9A%842D%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%841%E5%88%86%E9%92%9F%E5%86%85%E7%94%9F%E6%88%903D%E7%BB%93%E6%9E%84/"/>
+      <url>blog/%E5%A6%82%E4%BD%95%E6%8A%8A%E4%B8%93%E5%88%A9-%E6%96%87%E7%8C%AE%E9%87%8C%E7%9A%842D%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%841%E5%88%86%E9%92%9F%E5%86%85%E7%94%9F%E6%88%903D%E7%BB%93%E6%9E%84/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>MarvinSketch是一款功能强大的绘制分子结构、反应式并计算相关性质的软件，MarvinSketch利用算法生成3D初始结构也非常合理，利用MarvinSketch生成的3D结构做QM计算的初猜；还有计算pKa等一些经验和半经验计算功能 。</p><p>因此小编带领大家学会如何利用StoneMIND Collector等软件快速获取分子的3D结构，快跟我来看看吧。</p><p>1.化合物结构的绘制</p><p>利用StoneMIND Collector软件将结构提取出来，通过复制-复制SMILES获取绘制正确的smiles分子格式。</p><p><img src="2.jpg" width="80%" height="80%"></p><p>2.生成3D结构</p><p>打开MarvinSkecth软件，打开一个新画布，右击paste，即可正确显示该化学结构。</p><p>3.1该化学结构的异构分子的3D生成</p><p>构象异构是一种异构现象，它描述了具有相同结构式的分子由于围绕一个或多个键旋转而具有不同形状的现象。不同的构象可能具有不同的能量，通常可以相互转换，并且很少是可分离的。<br> Conformers插件生成选定数量的构象异构体或分子的最低能量构象异构体。对于构象计算，使用 Dreiding 力场。</p><p>通过点击Calculations-conformation-conformers,即可显示该化学结构的异构分子的3D视图。</p><p>首先在Conformers Options面板中设置不同的计算参数：</p><p><img src="3.jpg" width="80%" height="80%"></p><p>结果出现在一个新窗口中，其中包含所有计算出的构象异构体及其能量指示：</p><p><img src="4.jpg" width="80%" height="80%"></p><p>2.2 Molecular Dynamics通过整合牛顿运动定律来计算系统的能量。</p><p>通过点击Calculations-conformation-Molecular Dynamics,即可显示该化学结构的异构分子具有能量的的3D视图。</p><p>计算和显示选项可以在Molecular Dynamics面板中设置：</p><p><img src="5.jpg" width="80%" height="80%"></p><p>结果显示在新窗口中：</p><p><img src="6.jpg" width="80%" height="80%"></p><p>2.3 3D Alignment将药物分子在 3D 空间中相互叠加。</p><p>通过点击Calculations-conformation-3D Alignment,即可显示多分子的3D视图。</p><p>注意：输入必须是 2D 或 3D 中的两个或多个分子。如果使用 2D 分子，它们的 3D 结构由 generate3D 自动生成。</p><p>可以灵活地处理分子的构象，或者可以保留输入的构象。要保留输入构象，只需选择分子。</p><p>输出是 3D 中对齐的分子。需要保存对齐的方向。</p><p>可以在3D 对齐选项面板中设置以下选项：</p><p><img src="7.jpg" width="80%" height="80%"> </p><p>对齐选项</p><p>l 按扩展原子类型对齐：扩展原子类型分配给每个原子，以实现化学相关的原子覆盖。在对齐过程中，相同类型原子的重叠被最大化。类型区分原子序数、杂化状态和芳香性，例如芳香氮原子与叔胺不匹配。这些扩展的原子类型对应于 Dreiding 力场中使用的原子类型。</p><p>l 通过 MCS 对齐：原子-原子配对是从分子的 2D 最大公共子结构中获得的。扩展原子类型的对齐应用于非 MCS 原子。</p><p>详细选项</p><p>l 初始构象大小： 作为比对输入生成的不同构象的数量。</p><p>l 准确度：低、正常、高、非常高：如果选择较低，计算速度会更快。默认为正常。</p><p>在 MarvinSpace 中显示：结果窗口是一个 MarvinSpace 3D 查看器。分子以不同的颜色可视化，以便更好地区分结构。</p><p><img src="8.jpg" width="80%" height="80%"></p><p>对齐的分子显示在 MarvinSpace 窗口中。单击并拖动以旋转。</p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Collector 客户端使用FAQ：如何使用内置化学编辑器？</title>
       <link href="blog/1/"/>
       <url>blog/1/</url>
@@ -17,11 +30,11 @@
     
     
     <entry>
-      <title>Collector客户端使用FAQ:如何与Pubchem等数据库联用</title>
-      <link href="blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      <title>Collector客户端使用FAQ:如何与ChemDraw等化学结构编辑器联用</title>
+      <link href="blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？"><a href="#StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？" class="headerlink" title="StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？"></a>StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？</h1><p>利用StoneMIND Collector时，有用户会想通过化学结构进行专利查询，具体怎样操作呢？快来看看吧！</p><p>（1）进入PubChem化学结构检索界面</p><p> 打开PubChem数据库，点击Draw Structure即可进入化学结构检索界面。</p><p>化学结构检索提供方便的化学结构编辑器，用户可在该窗口手动绘制化学结构或者提供结构smiles文件格式检索专利。</p><p><img src="2.png" width="80%" height="80%"></p><p>（2）获取化学结构的smiles</p><p> 利用StoneMIND Collector复制化合物结构的Smiles后,在PubChem结构编辑器中输入该化学结构的smiles，回车即可在绘制框中显示出需要检索的化学结构。如下图所示：</p><p> <img src="3.gif" width="80%" height="80%"></p><p>（3）Pubchem上传结构文件进行专利检索</p><p>在化学结构编辑器中复制获得的分子结构的smiles。</p><p><img src="4.png" width="80%" height="80%"></p><p> 点击Search for This Structure进行检索，检索结果如下图所示：</p><p> <img src="5.png" width="80%" height="80%"></p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="为何粘贴至Chemdraw等化学结构编辑器中出现乱码？"><a href="#为何粘贴至Chemdraw等化学结构编辑器中出现乱码？" class="headerlink" title="为何粘贴至Chemdraw等化学结构编辑器中出现乱码？"></a>为何粘贴至Chemdraw等化学结构编辑器中出现乱码？</h2><p>想要避免出现此问题，需要您在StoneMIND Collector中复制提取后结构后，打开ChemDraw，右击选择Paste special-SMILES或者Paste special-MOL CDXML Text 即可将化学结构正确复制到ChemDraw中。</p><p><img src="2.png" width="70%" height="70%"></p><p>如您的ChemDraw中未显示Paste special功能，建议您将ChemDraw版本更换为较高版本进行操作。</p><h2 id="为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？"><a href="#为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？" class="headerlink" title="为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？"></a>为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？</h2><p>为避免出现上述问题，你只需要复制MOL格式的化学结构，即可在专业化学结构编辑器中呈现结构未发生变化的化学结构。</p><p><img src="3.png" width="80%" height="80%"></p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
       
       
       
@@ -35,6 +48,19 @@
       <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8Escifinder%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>SciFinder由美国化学会(ACS)旗下的美国化学文摘社(CAS)出品，是一个研发信息应用平台，提供全球最大、最权威的化学及相关学科文献、物质和反应信息。SciFinder涵盖了化学及相关学科如生物、医药、工程、农学、物理等多学科、跨学科的科技信息。SciFinder收录的文献类型包括期刊、专利、会议论文、图书、技术报告、评论、网络预印本和其他网络资源等。SciFinder的强大检索功能与海量信息让用户对信息进行实时追踪，即刻掌握领域的发展趋势，被全球化学企业、制药公司、大学、政府机构和专利局公认为最权威和最全面的化学及相关学科信息解决方案。StoneMIND Collector当然支持在Scifinder数据库中进行检索。具体操作方法如下。</p><p>方法：利用在StoneMIND Collector中获得的物质SMILES将结构导入到SciFindern的结构编辑器中。</p><p>1.在StoneMIND Collector中绘制好结构并选中。</p><p>2.点击SciFindern菜单Edit，选择Copy As, 然后再选择SMILES。</p><p>3.在此粘贴在StoneMIND Collector中获得的SMILES，将结构导入到SciFindern的结构编辑器中。</p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Collector客户端使用FAQ:如何与Pubchem等数据库联用</title>
+      <link href="blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
+      <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EPubchem%E7%AD%89%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？"><a href="#StoneMIND-Collector输出的格式支持在pubchem上进行结构式搜索吗？" class="headerlink" title="StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？"></a>StoneMIND Collector输出的格式支持在pubchem上进行结构式搜索吗？</h1><p>利用StoneMIND Collector时，有用户会想通过化学结构进行专利查询，具体怎样操作呢？快来看看吧！</p><p>（1）进入PubChem化学结构检索界面</p><p> 打开PubChem数据库，点击Draw Structure即可进入化学结构检索界面。</p><p>化学结构检索提供方便的化学结构编辑器，用户可在该窗口手动绘制化学结构或者提供结构smiles文件格式检索专利。</p><p><img src="2.png" width="80%" height="80%"></p><p>（2）获取化学结构的smiles</p><p> 利用StoneMIND Collector复制化合物结构的Smiles后,在PubChem结构编辑器中输入该化学结构的smiles，回车即可在绘制框中显示出需要检索的化学结构。如下图所示：</p><p> <img src="3.gif" width="80%" height="80%"></p><p>（3）Pubchem上传结构文件进行专利检索</p><p>在化学结构编辑器中复制获得的分子结构的smiles。</p><p><img src="4.png" width="80%" height="80%"></p><p> 点击Search for This Structure进行检索，检索结果如下图所示：</p><p> <img src="5.png" width="80%" height="80%"></p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
       
       
       
@@ -74,19 +100,6 @@
       <url>blog/StongMIND%20Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B8%B8%E8%A7%81%E7%99%BB%E5%BD%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="如何在StoneMIND-Collector-客户端中登录账号？"><a href="#如何在StoneMIND-Collector-客户端中登录账号？" class="headerlink" title="如何在StoneMIND Collector 客户端中登录账号？"></a>如何在StoneMIND Collector 客户端中登录账号？</h2><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Collector客户端使用FAQ:如何与ChemDraw等化学结构编辑器联用</title>
-      <link href="blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/"/>
-      <url>blog/Collector%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8EChemDraw%E7%AD%89%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84%E7%BC%96%E8%BE%91%E5%99%A8%E8%BF%9E%E7%94%A8%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="为何粘贴至Chemdraw等化学结构编辑器中出现乱码？"><a href="#为何粘贴至Chemdraw等化学结构编辑器中出现乱码？" class="headerlink" title="为何粘贴至Chemdraw等化学结构编辑器中出现乱码？"></a>为何粘贴至Chemdraw等化学结构编辑器中出现乱码？</h2><p>想要避免出现此问题，需要您在StoneMIND Collector中复制提取后结构后，打开ChemDraw，右击选择Paste special-SMILES或者Paste special-MOL CDXML Text 即可将化学结构正确复制到ChemDraw中。</p><p><img src="2.png" width="70%" height="70%"></p><p>如您的ChemDraw中未显示Paste special功能，建议您将ChemDraw版本更换为较高版本进行操作。</p><h2 id="为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？"><a href="#为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？" class="headerlink" title="为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？"></a>为何将化学结构粘贴至Chemdraw等化学结构编辑器中结构发生变化？</h2><p>为避免出现上述问题，你只需要复制MOL格式的化学结构，即可在专业化学结构编辑器中呈现结构未发生变化的化学结构。</p><p><img src="3.png" width="80%" height="80%"></p><p>如果以上仍未能解决您的问题，请扫描下方二维码，添加Collector小助手微信，Collector小助手会在工作日9：00-18：00对您的问题进行解决。</p><p><img src="1.png" width="15%" height="15%"></p>]]></content>
       
       
       
